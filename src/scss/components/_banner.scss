@@ -1,0 +1,12 @@
+.banner {
+  &__wrapper {}
+
+  &__img {
+    img {
+      display: block;
+      width: 100%;
+      margin-top: -180px;
+    }
+    
+  }
+}
